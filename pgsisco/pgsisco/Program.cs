@@ -6,7 +6,7 @@ using System.Windows.Forms;
 // Comment
 
 namespace pgsisco
-{
+{   
     static class Program
     {
         /// <summary>
