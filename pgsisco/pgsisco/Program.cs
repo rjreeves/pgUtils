@@ -13,7 +13,7 @@ namespace pgsisco
         /// The main entry point for the application.    
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main()   
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
